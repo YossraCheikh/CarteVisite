@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Carte Visite</string>
+    <string name="full_name">Alexandre Dupont</string>
+    <string name="job_title">Développeur Android Extraordinaire</string>
+    <string name="phone_number">+33 (0)6 12 34 56 78</string>
+    <string name="social_handle">\@AndroidDev</string>
+    <string name="email_address">alex.dupont@android.com</string>
+    <string name="phone_desc">Icône de téléphone</string>
+    <string name="social_desc">Icône de partage social</string>
+    <string name="email_desc">Icône d\'e-mail</string>
+    <string name="android_logo_desc">Logo Android</string>
+</resources>
